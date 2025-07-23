@@ -69,7 +69,13 @@ For testing purposes, use:
 Run all API tests:
 
 ```bash
-pnpm playwright:test tests/api/
+pnpm run playwright:test:api
+```
+
+Run all UI tests:
+
+```bash
+pnpm run playwright:test:ui
 ```
 
 ## Test Reports
