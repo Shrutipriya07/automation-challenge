@@ -13,7 +13,6 @@
         "playwright:test": "playwright test --project=chromium-ui",
         "playwright:test:ui": "playwright test --project=chromium-ui",
         "playwright:test:api": "playwright test --project=chromium-api",
-        "playwright:test:debug": "playwright test --debug",
         "playwright:test:interactive": "playwright test --ui",
         "prepare": "husky",
         "start": "next start",
